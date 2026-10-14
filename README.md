@@ -2,7 +2,7 @@
 
 # Hey, I'm Luke 👋
 
-**Computer Science @ University of Utah · Expected December 2027**  
+**Computer Science @ University of Utah · Expected May 2027**  
 **Software Engineering · AI Agents · Developer Tools**
 
 Building useful software, exploring AI systems, and learning the engineering behind reliable products.
